@@ -1,2 +1,2 @@
 # ICP-FirstProject
-Worksop
+Workshop
